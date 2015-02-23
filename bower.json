@@ -1,0 +1,14 @@
+{
+  "name": "jQuery.scrollSpeed",
+  "version": "1.0.2",
+  "authors": [
+    "Nathan Rutzky <mail@bynathan.com>"
+  ],
+  "description": "Lightweight jQuery extension for modifying scrolling speed in modern web browsers. Supports vertical or horizontal scrolling direction, including user-defined easing.",
+  "main": "jQuery.scrollSpeed.js",
+  "keywords": [
+    "scroll"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ByNathan/jQuery.scrollSpeed"
+}
